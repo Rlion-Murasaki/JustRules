@@ -1,6 +1,6 @@
 #some vedio web
-DOMAIN_SUFFIX,agemys.org
-DOMAIN_SUFFIX,btnull.org
+DOMAIN-SUFFIX,agemys.org
+DOMAIN-SUFFIX,btnull.org
 
 # PayPal
 DOMAIN-SUFFIX,paypal.com
